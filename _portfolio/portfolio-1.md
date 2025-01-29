@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Smart Cooling Loop for Data Center Server Racks"
+excerpt: "Designed Prototype and User interface for unique cooling system to be used in Data Centers <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
