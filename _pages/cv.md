@@ -13,14 +13,14 @@ Education
 ======
 * B.S. in Computer Engineering, Virginia Tech 2025 (Expected)
 * M.S. Virginia Tech, 2027 (Expected)
-* 
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Undergraduate Researcher, System Software Research Group (September 2022 – February 2024)
+  * Furthered an existing paper’s completeness using reverse engineering tool Ghidra, java scripts, and Pcode
+  * Learned and applied rewrite-based executable semantic framework K
+  * Learned Haskell for verification work on Ebpf instructions
 
 * Fall 2015: Research Assistant
   * GitHub University
