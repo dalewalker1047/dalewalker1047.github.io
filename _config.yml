@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "O Dale Walker"
+title                    : "Dale Walker"
 title_separator          : "-"
-name                     : &name "O Dale Walker"
+name                     : &name "Dale Walker"
 description              : &description "Student at Virginia Tech"
-url                      : https://dalewalker1047.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://dalewalker1047.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dalewalker1047.github.io"
 
@@ -23,9 +23,9 @@ repository               : "dalewalker1047.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "O. Dale Walker"
+  name             : "Dale Walker"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Student"
   location         : "Blacksburg, VA"
   employer         : "Virginia Tech"
   uri              : # URL
@@ -33,11 +33,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : # URL
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -45,12 +45,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "dalewalker1047"
+  github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : # User # Replace this with you Bluesky username
+  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
