@@ -13,6 +13,7 @@ Education
 ======
 * B.S. in Computer Engineering, Virginia Tech 2025 (Expected)
 * M.S. Virginia Tech, 2027 (Expected)
+*
 
 Work experience
 ======
@@ -54,4 +55,6 @@ Teaching
   
 Service and leadership
 ======
+*
+
 
