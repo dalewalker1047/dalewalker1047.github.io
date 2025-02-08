@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 * Undergraduate Researcher, System Software Research Group (September 2022, February 2024) 
-  * Furthered an existing paper’s completeness using reverse engineering tool Ghidra, java scripts, and Pcode
+  * Furthered an existing papers completeness using reverse engineering tool Ghidra, java scripts, and Pcode
   * Learned and applied rewrite based executable semantic framework K 
   * Learned Haskell for verification work on Ebpf instructions 
   * Quickly learned many new languages and skills to complete various tasks
