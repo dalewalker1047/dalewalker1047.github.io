@@ -13,13 +13,13 @@ Education
 ======
 * B.S. in Computer Engineering, Virginia Tech 2025 (Expected)
 * M.S. Virginia Tech, 2027 (Expected)
-
+*
 
 Work experience
 ======
-* Undergraduate Researcher, System Software Research Group (September 2022 – February 2024)
-  * Furthered an existing paper’s completeness using reverse engineering tool Ghidra, java scripts, and Pcode
-  * Learned and applied rewrite-based executable semantic framework K
+* Undergraduate Researcher, System Software Research Group (September 2022 to February 2024)
+  * Furthered an existing papers completeness using reverse engineering tool Ghidra, java scripts, and Pcode
+  * Learned and applied rewrite based executable semantic framework K
   * Learned Haskell for verification work on Ebpf instructions
 
 * Fall 2015: Research Assistant
